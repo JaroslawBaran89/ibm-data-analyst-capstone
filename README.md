@@ -30,7 +30,7 @@ Analysis of **65,437 responses** to the **Stack Overflow Developer Survey**, com
 | Data collection | Python, `requests` (REST API), `BeautifulSoup` (web scraping), `openpyxl` |
 | Data wrangling | Python, Pandas |
 | Exploratory analysis & visualization | Pandas, Matplotlib |
-| Dashboard | Google Looker Studio |
+| Dashboard | Power BI |
 | Presentation | PowerPoint |
 
 ## 📁 Repository Structure
@@ -159,7 +159,7 @@ PostgreSQL leads now and next year. MySQL and SQL Server lose about 40% of their
 | ![Respondents by age](images/11_age_groups.png) | ![Respondents by country](images/12_top_countries.png) |
 
 ### 4. Interactive Dashboard
-**Tool:** Google Looker Studio – three tabs:
+**Tool:** Power BI – three tabs:
 
 **Tab 1 – Current Technology Usage:** most used language JavaScript (37,492), most used databases PostgreSQL and MySQL, AWS leads platforms, Node.js and React lead web frameworks.
 ![Dashboard – current technology usage](images/08_dashboard_current.png)
